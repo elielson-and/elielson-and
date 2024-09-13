@@ -13,4 +13,4 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="Docker"/>
 </div>
 
-<div align="center">𝘦𝘭𝘪𝘦𝘭𝘴𝘰𝘯𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮</div>
+<div align="center"> <i>elielsondeveloper@gmail.com</i> </div>
