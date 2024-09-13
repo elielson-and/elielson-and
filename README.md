@@ -11,5 +11,7 @@
   <img src="https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge" alt="C#"/>
   <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge" alt="PHP"/>
   <img src="https://img.shields.io/badge/-Linux-white?logo=linux&logoColor=black&style=for-the-badge" alt="Linux"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 </div>
+
 <div align="center">𝘦𝘭𝘪𝘦𝘭𝘴𝘰𝘯𝘥𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳@𝘨𝘮𝘢𝘪𝘭.𝘤𝘰𝘮</div>
