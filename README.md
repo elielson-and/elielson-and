@@ -1,6 +1,6 @@
 <div align="center">
   <h1>E̷L̷I̷E̷L̷S̷O̷N̷_̷A̷N̷D̷</h1>
-  <img src="https://darkgoldenrod-quetzal-801631.hostingersite.com/static_assets/elielson_gh/flames.webp" alt="Chamas decorativas" width="600"/>
+  <img src="https://fkscs.com/assets/images/flames.webp" alt="Chamas decorativas" width="600"/>
 </div>
 
 <div align="center">
